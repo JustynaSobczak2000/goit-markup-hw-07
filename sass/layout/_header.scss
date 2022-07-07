@@ -1,4 +1,10 @@
  .header {
      border-bottom: 1px solid #ececec;
      background-color: #fff;
+
+    &__logo {
+            align-self: center;
+           margin-right: 93px;
+            color: $logo-secondary-dark-color;
+        }
  }

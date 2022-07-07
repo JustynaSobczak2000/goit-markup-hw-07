@@ -9,21 +9,10 @@
     text-transform: capitalize;
     text-decoration: none;
 
-    &--align-center {
-        align-self: center;
-    }
-
-    &--margin-right {
-        margin-right: 93px;
-    }
-
     &--margin-bottom {
         margin-bottom: 20px;
     }
 
-    &--dark {
-        color: $logo-secondary-dark-color;
-    }
 
     &--light {
         color: $logo-secondary-light-color;
